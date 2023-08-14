@@ -4,7 +4,7 @@
 
 💡 &nbsp;I like to explore new technologies and to develop software solutions.\
 🎓 &nbsp;I'm currently a `Senior` studying Computer Science at Virginia Polytechnic Institute and State University.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
+🌱 &nbsp;I'm on track for learning more about Systems Design, and Cloud Architecture.\
 ✉️ &nbsp;Feel free to contact me at alexandersg@vt.edu! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Resume]() for more details about me. I'm open to feedback and suggestions!
 
