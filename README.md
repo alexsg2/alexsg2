@@ -56,7 +56,7 @@ Welcome to my personal GitHub page! Here's a glimpse of who I am and what I'm up
 <br>
 
 <p align="center">
-<a href="https://alexsg2.github.io/My-Personal-Website/"><img src="https://img.shields.io/badge/-My%20Personal%20Website-3423A6?style=flat&logo=react&logoColor=white"/></a>
+<a href="https://alexsg2.github.io/Personal-Website/"><img src="https://img.shields.io/badge/-My%20Personal%20Website-3423A6?style=flat&logo=react&logoColor=white"/></a>
 <a href="https://linkedin.com/in/alexandersg-"><img src="https://img.shields.io/badge/-Alexander%20Georgiev-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:alexandersg@vt.edu"><img src="https://img.shields.io/badge/-alexandersg@vt.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://devpost.com/alexandersg?ref_content"><img src="https://img.shields.io/badge/-My%20DevPost-3423A6?style=flat&logo=Devpost&logoColor=white"/></a>
