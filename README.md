@@ -3,7 +3,7 @@
 Welcome to my personal GitHub page! Here's a glimpse of who I am and what I'm up to:
 
 💡 &nbsp;I like to explore new technologies and to develop software solutions.\
-🎓 &nbsp;Currently working as a Software Engineer, with a degree in Computer Science from Virginia Tech University.\
+🎓 &nbsp;Currently working as a Software Engineer, with a degree in Computer Science from Virginia Tech.\
 ✉️ &nbsp;Feel free to contact me at alex.s.georgiev@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Check out my [Resume]() for a more comprehensive overview of my experiences. I'm open to feedback and suggestions!
 
