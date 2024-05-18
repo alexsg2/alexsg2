@@ -3,9 +3,8 @@
 Welcome to my personal GitHub page! Here's a glimpse of who I am and what I'm up to:
 
 💡 &nbsp;I like to explore new technologies and to develop software solutions.\
-🎓 &nbsp;Currently a `Senior` Student pursuing a degree in Computer Science at Virginia Polytechnic Institute and State University.\
-🌱 &nbsp;I'm on track for learning more about Systems Design, and Cloud Architecture.\
-✉️ &nbsp;Feel free to contact me at alex.s.georgievg@gmail.com! I'll try to respond as soon as I can.\
+🎓 &nbsp; I am currently working as a Software Engineer, with a degree in Computer Science from Virginia Polytechnic Institute and State University.\
+✉️ &nbsp;Feel free to contact me at alex.s.georgiev@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Check out my [Resume]() for a more comprehensive overview of my experiences. I'm open to feedback and suggestions!
 
 <br>
@@ -58,7 +57,7 @@ Welcome to my personal GitHub page! Here's a glimpse of who I am and what I'm up
 <p align="center">
 <a href="https://alexsg2.github.io/Personal-Website/"><img src="https://img.shields.io/badge/-My%20Personal%20Website-3423A6?style=flat&logo=react&logoColor=white"/></a>
 <a href="https://linkedin.com/in/alexandersg-"><img src="https://img.shields.io/badge/-Alexander%20Georgiev-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:alexandersg@vt.edu"><img src="https://img.shields.io/badge/-alexandersg@vt.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:alex.s.georgiev@gmail.com"><img src="https://img.shields.io/badge/-alex.s.georgiev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://devpost.com/alexandersg?ref_content"><img src="https://img.shields.io/badge/-My%20DevPost-3423A6?style=flat&logo=Devpost&logoColor=white"/></a>
 </p>
 
