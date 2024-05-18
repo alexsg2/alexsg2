@@ -5,7 +5,7 @@ Welcome to my personal GitHub page! Here's a glimpse of who I am and what I'm up
 💡 &nbsp;I like to explore new technologies and to develop software solutions.\
 🎓 &nbsp;Currently a `Senior` Student pursuing a degree in Computer Science at Virginia Polytechnic Institute and State University.\
 🌱 &nbsp;I'm on track for learning more about Systems Design, and Cloud Architecture.\
-✉️ &nbsp;Feel free to contact me at alexandersg@vt.edu! I'll try to respond as soon as I can.\
+✉️ &nbsp;Feel free to contact me at alex.s.georgievg@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Check out my [Resume]() for a more comprehensive overview of my experiences. I'm open to feedback and suggestions!
 
 <br>
